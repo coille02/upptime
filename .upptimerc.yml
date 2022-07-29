@@ -9,12 +9,6 @@ sites:
     url: https://floor.line.games
   - name: uwo sentry
     url: https://sentry22.uwo.line.games
-  - name: uwo log
-    url: https://es.uwo.line.games/
-  - name: uwo apm
-    url: https://apm-web.uwo.line.games/
-  - name: uwo lua crash
-    url: https://titanic.motifgames.in/
 
 status-website:
 
