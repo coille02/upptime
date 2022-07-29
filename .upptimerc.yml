@@ -11,10 +11,10 @@ sites:
     url: https://sentry22.uwo.line.games
 
 status-website:
-
+  theme: light
   cname: board.uwo.line.games
   logoUrl: https://static.line.games/official/image/linegames/logo.png
-  name: UWO Status
+  name: LineGames
   introTitle: "Web Status"
   introMessage: 서비스 상태 모니터링
   navbar:
