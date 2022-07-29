@@ -9,7 +9,7 @@ sites:
     url: https://floor.line.games
   - name: uwo sentry
     url: https://sentry22.uwo.line.games
-    - name: pacman  
+  - name: pacman  
     url: https://pacman.line.games
 
 status-website:
