@@ -1,7 +1,7 @@
 url: https://sentry22.uwo.line.games
-status: up
-code: 200
-responseTime: 1168
-lastUpdated: 2022-08-30T23:25:58.868Z
+status: down
+code: 403
+responseTime: 438
+lastUpdated: 2022-08-31T08:55:28.164Z
 startTime: Fri Jul 29 2022 09:40:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
