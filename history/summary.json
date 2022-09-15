@@ -4,9 +4,9 @@
     "url": "https://www.line.games",
     "icon": "https://favicons.githubusercontent.com/www.line.games",
     "slug": "linegames-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 841,
     "timeMonth": 755,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "floor",
@@ -77,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-15": 157,
+      "2022-09-15": 307,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
