@@ -2,7 +2,7 @@
   {
     "name": "linegames Web",
     "url": "https://www.line.games",
-    "icon": "https://favicons.githubusercontent.com/www.line.games",
+    "icon": "https://icons.duckduckgo.com/ip3/www.line.games.ico",
     "slug": "linegames-web",
     "status": "up",
     "uptime": "99.93%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
-    "time": 720,
-    "timeDay": 796,
-    "timeWeek": 668,
-    "timeMonth": 753,
-    "timeYear": 720,
+    "time": 721,
+    "timeDay": 776,
+    "timeWeek": 672,
+    "timeMonth": 752,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2022-09-15": 64
     }
@@ -22,7 +22,7 @@
   {
     "name": "floor",
     "url": "https://floor.line.games",
-    "icon": "https://favicons.githubusercontent.com/floor.line.games",
+    "icon": "https://icons.duckduckgo.com/ip3/floor.line.games.ico",
     "slug": "floor",
     "status": "up",
     "uptime": "99.98%",
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1654,
-    "timeDay": 1912,
-    "timeWeek": 1621,
+    "timeDay": 1670,
+    "timeWeek": 1638,
     "timeMonth": 1646,
     "timeYear": 1654,
     "dailyMinutesDown": {
@@ -42,7 +42,7 @@
   {
     "name": "uwo sentry",
     "url": "https://sentry22.uwo.line.games",
-    "icon": "https://favicons.githubusercontent.com/sentry22.uwo.line.games",
+    "icon": "https://icons.duckduckgo.com/ip3/sentry22.uwo.line.games.ico",
     "slug": "uwo-sentry",
     "status": "up",
     "uptime": "99.87%",
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
-    "time": 1422,
-    "timeDay": 1256,
-    "timeWeek": 1235,
-    "timeMonth": 1281,
-    "timeYear": 1422,
+    "time": 1421,
+    "timeDay": 1330,
+    "timeWeek": 1237,
+    "timeMonth": 1279,
+    "timeYear": 1421,
     "dailyMinutesDown": {
       "2022-09-09": 18,
       "2022-08-31": 21,
@@ -65,7 +65,7 @@
   {
     "name": "pacman",
     "url": "https://pacman.line.games",
-    "icon": "https://favicons.githubusercontent.com/pacman.line.games",
+    "icon": "https://icons.duckduckgo.com/ip3/pacman.line.games.ico",
     "slug": "pacman",
     "status": "down",
     "uptime": "0.00%",
@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-01": 163,
+      "2022-10-02": 155,
+      "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
